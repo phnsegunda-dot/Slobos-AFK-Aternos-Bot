@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "esqu1s1t0.aternos.me",
+    "ip": "esqu1s1t0.aternos.me:54490",
     "port": 54490,
     "version": "",
     "try-creative": false
